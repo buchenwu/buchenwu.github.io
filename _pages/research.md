@@ -29,6 +29,7 @@ author_profile: true
 # Research Interests
 
 1. Biological self-propulsion
-   ![Unconstrained swimmer](https://buchenwu.github.io/images/fish_san.gif){:height="50" width="50"}
+   ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif)
+   ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif)
 3. dcd
 4.
