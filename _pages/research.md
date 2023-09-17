@@ -21,7 +21,11 @@ author_profile: true
 11. Shujin Laima (advisor), **Buchen Wu**, Chao Jiang, Wenli Chen and Hui Li. Numerical study on Reynolds number effects on the aerodynamic characteristics of a twin-box girder, *Wind and Structures*, 28 (5), 285--298. (2019) [doi:10.12989/was.2019.28.5.285](https://doi.org/10.12989/was.2019.28.5.285)
 12. HsuChew Lee, **Buchen Wu**, Peng Dai, Minping Wan and Andrei N. Lipatnikov. Turbulent burning velocity and thermodiffusive instability of premixed flames, *Physical review E*, 108 (3), 035101. (2023) [doi:10.1103/PhysRevE.108.035101](https://link.aps.org/doi/10.1103/PhysRevE.108.035101)
 13. Jie Feng, **Buchen Wu** and Shujin Laima. (2021) Effects of the Configuration of Trailing Edge on the Flutter of an Elongated Bluff Body, *Applied Sciences*, 11 (22), 10818. [doi:10.3390/app112210818](https://doi.org/10.3390/app112210818)
+
+
 ---
+
+
 # Research Interests
 
 1. Biological self-propulsion
