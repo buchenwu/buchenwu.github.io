@@ -22,16 +22,18 @@ Dr. **Buchen Wu (吴步晨)** is now a Research Fellow in the Department of Mech
 
 Education
 ===
-* Aug. 2019 --- Aug 2023: Ph.D. National University of Singapore (Supervisors: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/) and [Prof. Minping Wan](https://faculty.sustech.edu.cn/wanmp/en/))
-* Sept. 2017 --- July 2019: M.Eng. Harbin Institute of Technology
-* Sept. 2013 --- June 2017: B.Eng. Central South University
+* Aug. 2019 --- Aug 2023: Ph.D., National University of Singapore (Supervisors: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/) and [Prof. Minping Wan](https://faculty.sustech.edu.cn/wanmp/en/))
+* Sept. 2017 --- July 2019: M.Eng., Harbin Institute of Technology
+* Sept. 2013 --- June 2017: B.Eng., Central South University
 
 Honors and Awards
 ===
-* Outstanding Freshman Scholarship    **Top 5%**     2019
-* Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020 
-* Outstanding Undergraduate Scholarship, Bronze award  **Top 10%**     2022, 2021 
-* National Grants     **Top 5%**   2022, 2021, 2019
+* Extraordinary Potential Prize of 2022 Chinese Government Award for Outstanding Self-financed Students Abroad    **(20 people per year worldwide)**     2023
+* NUS Research Scholarship,      2019-2023
+* Merit Student of Heilongjiang Province,  2019
+* National Scholarship of China,  2018
+* Outstanding Graduates of Hunan Province, 2017
+* National Encouragement scholarship of China  2016
 
 
 Activities
