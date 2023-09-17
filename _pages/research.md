@@ -33,5 +33,6 @@ author_profile: true
 
 
    ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif)
-3. dcd
-4.
+2. Numerical approaches for FSI
+   
+3. Bluff body
