@@ -25,6 +25,6 @@ author_profile: true
 # Research Interests
 
 1. Biological self-propulsion
-   [初步的学术主页页面](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/firstpage50k.png)
+   [Unconstrained swimmer](https://github.com/buchenwu/buchenwu.github.io/master/images/compare-rigid-flexible.mp4)
 3. dcd
 4.
