@@ -17,7 +17,7 @@ Current
 Short Bio
 ===
 
-I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
+I am **Buchen Wu (吴步晨)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
 
 My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
 
