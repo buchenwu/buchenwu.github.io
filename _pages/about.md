@@ -17,15 +17,14 @@ Current
 Short Bio
 ===
 
-I am **Buchen Wu (吴步晨)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
-
-My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
+Dr. **Buchen Wu (吴步晨)** is now a Research Fellow in the Department of Mechanical Engineering of National University of Singapore (NUS). He works on computational fluid dynamics, experimental fluid dynamics, fluid-structure interaction (FSI) and thermal fluid-structure interaction (TFSI).
 
 
 Education
 ===
-* Sept. 2019 --- June 2023: B.Sc. in Mathematical Analysis, School of the Gifted Young, University of Science and Technology of China (expected)
-* Sept. 2016 --- June 2019: The High School Attached to Northwest Normal University
+* Aug. 2019 --- Aug 2023: Ph.D. National University of Singapore (Supervisors: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/) and [Prof. Minping Wan](https://faculty.sustech.edu.cn/wanmp/en/))
+* Sept. 2017 --- July 2019: M.Eng. Harbin Institute of Technology
+* Sept. 2013 --- June 2017: B.Eng. Central South University
 
 Honors and Awards
 ===
