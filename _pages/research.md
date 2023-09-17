@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 
-# Research interets
+# Publications
 
-1. Federal learning
+1. Shujin Laima (advisor), Buchen Wu, Chao Jiang, Wenli Chen and Hui Li. "Numerical study on Reynolds number effects on the aerodynamic characteristics of a twin-box girder" Wind and Structures, 28 (5), 285--298. [doi:10.12989/was.2019.28.5.285](https://doi.org/10.12989/was.2019.28.5.285)
+
+2. Adversarial Robustness
    - graph mining
    - differntial privacy
-2. Adversarial Robustness
 
 ---
 
