@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Current
-===
-
-*I am looking for a Ph.D. position in machine learning.*
-
-
 Short Bio
 ===
 
 Dr. **Buchen Wu (吴步晨)** is now a Research Fellow in the Department of Mechanical Engineering of National University of Singapore (NUS). He works on computational fluid dynamics, experimental fluid dynamics, fluid-structure interaction (FSI) and thermal fluid-structure interaction (TFSI).
 
+Appointment
+===
+* July. 2023 --- Jan 2024: Research Fellow, National University of Singapore (Supervisor: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/))
 
 Education
 ===
@@ -33,15 +30,14 @@ Honors and Awards
 * Merit Student of Heilongjiang Province,  2019
 * National Scholarship of China,  2018
 * Outstanding Graduates of Hunan Province, 2017
-* National Encouragement scholarship of China  2016
+* National Encouragement scholarship of China,  2016
 
 
-Activities
+Teaching experience
 ===
-* TA in *Mathematical Analysis B*, 2021 Fall
-* Editor of the Wechat account of School of Gifted Young, USTC
-* Member of School of Gifted Young Student Union
-* Attendee of ACM TURC 2021, Hefei, China
+* 2023 --- 2024: ME5001: Mechanical Engineering Project (Postgraduate course)
+* 2022 --- 2023: Final Year Project of Undergraduate Student (project code: 2210-00228).
+* 2020         : MAE5011: Seminars for Frontier in Mechanics (Postgraduate course)
 
 
 <script>
