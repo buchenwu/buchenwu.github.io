@@ -30,6 +30,7 @@ author_profile: true
 
 1. Biological self-propulsion
    ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif)
+   
    ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif)
 3. dcd
 4.
