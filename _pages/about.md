@@ -15,13 +15,13 @@ Dr. **Buchen Wu (吴步晨)** is now a Research Fellow in the Department of Mech
 
 Appointment
 ===
-* July. 2023 --- Jan 2024: Research Fellow, National University of Singapore (Supervisor: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/))
+* 07/2023 --- 01/2024: Research Fellow, National University of Singapore (Supervisor: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/))
 
 Education
 ===
-* Aug. 2019 --- Aug. 2023: Ph.D., National University of Singapore (Supervisors: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/) and [Prof. Minping Wan](https://faculty.sustech.edu.cn/wanmp/en/))
-* Sept. 2017 --- July 2019: M.Eng., Harbin Institute of Technology
-* Sept. 2013 --- June 2017: B.Eng., Central South University
+* 08/2019 --- 08/2023: Ph.D., National University of Singapore (Supervisors: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/) and [Prof. Minping Wan](https://faculty.sustech.edu.cn/wanmp/en/))
+* 09/2017 --- 07/2019: M.Eng., Harbin Institute of Technology
+* 09/2013 --- 06/2017: B.Eng., Central South University
 
 Honors and Awards
 ===
