@@ -8,9 +8,10 @@ author_profile: true
 
 # Publications
 
-1. Shujin Laima (advisor), Buchen Wu, Chao Jiang, Wenli Chen and Hui Li. "Numerical study on Reynolds number effects on the aerodynamic characteristics of a twin-box girder" Wind and Structures, 28 (5), 285--298. [doi:10.12989/was.2019.28.5.285](https://doi.org/10.12989/was.2019.28.5.285)
+1. Qingmeng Gan, **Buchen Wu (Co-first author)**, Ning Qin, Jiali Chen, Wen Luo, Dejun Xiao, Jie Feng, Weilong Liu, Youhuan Zhu, Peisen Zhang. Sandwich-like dual carbon layers coated NiO hollow spheres with superior lithium storage performances, *Electrochimica Acta*, 343, 136121. [doi:10.1016/j.electacta.2020.136121](https://doi.org/10.1016/j.electacta.2020.136121)
+2. Shujin Laima (advisor), **Buchen Wu**, Chao Jiang, Wenli Chen and Hui Li. Numerical study on Reynolds number effects on the aerodynamic characteristics of a twin-box girder, *Wind and Structures*, 28 (5), 285--298. [doi:10.12989/was.2019.28.5.285](https://doi.org/10.12989/was.2019.28.5.285)
 
-2. Adversarial Robustness
+3. Adversarial Robustness
    - graph mining
    - differntial privacy
 
