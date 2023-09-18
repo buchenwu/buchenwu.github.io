@@ -20,7 +20,7 @@ Appointment
 Education
 ===
 * 08/2019 --- 08/2023: Ph.D., National University of Singapore (Supervisors: [Prof. Chang Shu](https://cde.nus.edu.sg/me/staff/shu-chang/) and [Prof. Minping Wan](https://faculty.sustech.edu.cn/wanmp/en/))
-* 09/2017 --- 07/2019: M.Eng., Harbin Institute of Technology
+* 09/2017 --- 07/2019: M.Eng., Harbin Institute of Technology (Supervisor: [Prof. Shujin Laima](http://homepage.hit.edu.cn/laima?lang=en))
 * 09/2013 --- 06/2017: B.Eng., Central South University
 
 Honors and Awards
@@ -40,8 +40,8 @@ Teaching experience
 * 2020 --- 2021: MAE5011: Seminars for Frontier in Mechanics (Postgraduate course)
 
 
-<script>
-document.write("Last modifid at: "+document.lastModified+"" )
-</script>
+#<script>
+#document.write("Last modifid at: "+document.lastModified+"" )
+#</script>
 
 ---
