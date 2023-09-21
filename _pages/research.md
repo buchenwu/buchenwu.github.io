@@ -33,7 +33,9 @@ author_profile: true
    ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif){: width="40%"} ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif){: width="40%"}
    
 3. Numerical approaches for FSI
-   ![Three-dimensional flag](https://buchenwu.github.io/images/Flag.gif)
    
-4. Flow around Bluff Body
+   ![Three-dimensional flag](https://buchenwu.github.io/images/Flag.gif){: width="40%"}
+   
+5. Flow around Bluff Body
+6. 
    ![VIV](https://buchenwu.github.io/images/VIV.png)
