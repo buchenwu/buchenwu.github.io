@@ -38,4 +38,4 @@ author_profile: true
    
 5. Flow around Bluff Body
 6. 
-   ![VIV](https://buchenwu.github.io/images/VIV.png)
+   ![VIV](https://buchenwu.github.io/images/VIV.png){: width="80%"}
