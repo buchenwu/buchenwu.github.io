@@ -9,10 +9,7 @@ News
 ===
 
 * 30/08/2023, Dr. Wu passed the Ph.D. oral examination
-<div align="center">
-<img src=https://buchenwu.github.io/images/oral_examination.jpg />
-</div>
-  ![Oral Examination](https://buchenwu.github.io/images/oral_examination.jpg#pic_center)
+  ![Oral Examination](https://buchenwu.github.io/images/oral_examination.jpg#pic_center){: width="50%"}
 
 .
 
