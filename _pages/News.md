@@ -5,5 +5,9 @@ permalink: /News/
 author_profile: true
 ---
 
-My CV is also available to download [here](../files/CV_XiaolongJin_final.pdf){:target="_blank"}.
+News
+===
+*30/08/2023, Dr. Wu passed the Ph.D. oral examination
+
+.
 
