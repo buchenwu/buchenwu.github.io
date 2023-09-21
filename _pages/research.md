@@ -29,12 +29,12 @@ author_profile: true
 # Research Interests
 
 1. Biological self-propulsion
-   ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif)
-
-
-   ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif)
-2. Numerical approaches for FSI
+   
+   ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif){:height="400px"}
+   ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif){:height="400px"}
+   
+3. Numerical approaches for FSI
    ![Three-dimensional flag](https://buchenwu.github.io/images/Flag.gif)
    
-3. Flow around Bluff Body
+4. Flow around Bluff Body
    ![VIV](https://buchenwu.github.io/images/VIV.png)
