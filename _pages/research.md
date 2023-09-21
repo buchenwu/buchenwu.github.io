@@ -30,8 +30,7 @@ author_profile: true
 
 1. Biological self-propulsion
    
-   ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif){: width="50%"}
-   ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif){: width="50%"}
+   ![Unconstrained swimmer](https://buchenwu.github.io/images/compare-rigid-flexible.gif){: width="50%"} ![Three-dimensional swimmer](https://buchenwu.github.io/images/fish_san.gif){: width="50%"}
    
 3. Numerical approaches for FSI
    ![Three-dimensional flag](https://buchenwu.github.io/images/Flag.gif)
