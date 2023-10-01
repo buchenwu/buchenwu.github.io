@@ -11,7 +11,7 @@ redirect_from:
 Short Bio
 ===
 
-Dr. **Buchen Wu (吴步晨)** is now a Research Fellow in the Department of Mechanical Engineering of National University of Singapore (NUS). He works on computational fluid dynamics, experimental fluid dynamics, fluid-structure interaction (FSI) and thermal fluid-structure interaction (TFSI).
+Dr. **Buchen Wu** is now a Research Fellow in the Department of Mechanical Engineering of National University of Singapore (NUS). He works on computational fluid dynamics, experimental fluid dynamics, fluid-structure interaction (FSI) and thermal fluid-structure interaction (TFSI).
 
 Appointment
 ===
