@@ -40,8 +40,8 @@ Teaching experience
 * 2020 --- 2021: MAE5011: Seminars for Frontier in Mechanics (Postgraduate course)
 
 
-#<script>
-#document.write("Last modifid at: "+document.lastModified+"" )
-#</script>
+<script>
+document.write("Last modifid at: "+document.lastModified+"" )
+</script>
 
 ---
