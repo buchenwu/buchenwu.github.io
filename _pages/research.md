@@ -8,7 +8,7 @@ author_profile: true
 
 # Publications
 
-1. Linlin Kang, Shiying Xiong, **Buchen Wu (Corresponding author)**, Chao Li, Mingming Ge, Dehan Yuan, Fei Han and Weicheng Cui. Force decomposition on flapping flexible flag via impulse theory and dynamic mode decomposition. *Physics of Fluids*, **(Editor's Pick)**, Accept.
+1. Linlin Kang, Shiying Xiong, **Buchen Wu (Corresponding author)**, Chao Li, Mingming Ge, Dehan Yuan, Fei Han and Weicheng Cui. Force decomposition on flapping flexible flag via impulse theory and dynamic mode decomposition. *Physics of Fluids*, **(Editor's Pick)**. *Physics of Fluids*, 35 (10), 101914. (2023) [doi:10.1063/5.0169989](https://doi.org/10.1063/5.0169989).
 2. **Buchen Wu**, Chang Shu and Minping Wan. An implicit immersed boundary method for Robin boundary condition. *International Journal of Mechanical Sciences*, 108694. (2023) [doi:10.1016/j.ijmecsci.2023.108694](https://doi.org/10.1016/j.ijmecsci.2023.108694)
 3. **Buchen Wu**, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan. An explicit boundary condition-enforced immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal–fluid–structure interaction problems with heat flux boundary conditions. *Journal of Computational Physics*, 485, 112106. (2023) [doi:10.1016/j.jcp.2023.112106](https://doi.org/10.1016/j.jcp.2023.112106)
 4. **Buchen Wu**, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan. An efficient explicit immersed boundary-reconstructed lattice Boltzmann flux solver for isothermal fluid-structure interaction problems with large deformations and complex geometries. *Applied Mathematical Modelling*, 114, 627--645. (2023) [doi:10.1016/j.apm.2022.10.017](https://doi.org/10.1016/j.apm.2022.10.017)
