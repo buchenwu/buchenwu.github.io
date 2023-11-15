@@ -39,9 +39,6 @@ Teaching experience
 * 2022 --- 2023: Final Year Project of Undergraduate Student (project code: 2210-00228).
 * 2020 --- 2021: MAE5011: Seminars for Frontier in Mechanics (Postgraduate course)
 
-
-## Welcome
-
 <div >
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
