@@ -38,9 +38,3 @@ Teaching experience
 * 2023 --- 2024: ME5001: Mechanical Engineering Project (Postgraduate course)
 * 2022 --- 2023: Final Year Project of Undergraduate Student (project code: 2210-00228).
 * 2020 --- 2021: MAE5011: Seminars for Frontier in Mechanics (Postgraduate course)
-
-#<script>
-#document.write("Last modifid at: "+document.lastModified+"" )
-#</script>
-
-#---
