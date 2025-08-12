@@ -1,0 +1,31 @@
+menu:
+- {name: 'Home', url: '/'}
+#- {name: 'Research', url: '/research'}
+- {name: 'Team', url: '/team'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'News', url: '/news'}
+- {name: 'Vacancies', url: '/vacancies'}
+#- {name: 'courses', url: '/courses'}
+#- {name: 'cv', url: '/cv'}
+#- {name: 'contact', url: '/contact'}
+
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+- {icon: 'github', link: 'https://github.com/WeiSu-MAE'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wei-su-24373899/'}
+
+contacts:
+- {name: 'Dr Wei Su',
+   title: 'Assistant Professor',
+   department: 'Division of Emerging Interdisciplinary Areas',
+   institution: 'The Hong Kong University of Science and Technology',
+   address: 'Clear Water Bay, Hong Kong',
+   phone: '',
+   email: 'weisu@ust.hk',
+   office: '',
+   image: 'assets/img/contact.jpg'
+ }
