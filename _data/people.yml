@@ -1,48 +1,48 @@
 PI:
-- {name: 'Wei Su',
+- {name: 'Buchen Wu',
    title: 'Dr',
-   position: 'Assistant Professor',
-   degree: 'PhD in Aerospace Engineering',
-   phone: '(852) 3469 2415',
-   email: 'weisu@ust.hk',
-   office: '4340',
-   department: 'Division of Emerging Interdisciplinary Areas & Department of Mathematics',
+   position: 'Research Assistant Professor',
+   degree: 'PhD in Mechanical Engineering',
+   phone: '(852) 5626 1896',
+   email: 'buchenwu@ust.hk',
+   office: '2604',
+   department: 'Department of Mechanical and Aerospace Engineering',
    institution: 'HKUST',
    address: 'Clear Water Bay, Hong Kong',
    image: 'assets/img/wei-su.JPG',
-   cv: '/people/cv-wei-su.pdf',
-   googlescholar: 'https://scholar.google.com/citations?user=5ELg4LMAAAAJ&hl=en',
-   researchgate: 'https://www.researchgate.net/profile/Wei_Su22',
-   linkdin: 'https://www.linkedin.com/in/wei-su-24373899'
+   # cv: '/people/cv-wei-su.pdf',
+   googlescholar: 'https://scholar.google.com.hk/citations?user=fWzduqoAAAAJ&hl=en',
+   researchgate: 'https://www.researchgate.net/profile/Buchen-Wu?ev=hdr_xprf',
+   linkdin: 'https://www.linkedin.com/in/buchen-wu-00616a305/?originalSubdomain=hk'
    }
 
-PhD:
-- {name: 'Dingtao Shen',
-   program: 'IIP (09/2023 - )',
-   image: 'assets/img/dingtao-shen.jpeg',
-   email: 'dingtao.shen@connect.ust.hk',
-   master: 'M. S.: University of Wisconsin-Madison',
-   bachelor: 'B. S.: Zhejiang University',
-   topic: 'High-fidelity solution methods for Boltzmann transport equation-based modelling of phonon heat conduction'
-  }
+# PhD:
+# - {name: 'Dingtao Shen',
+#    program: 'IIP (09/2023 - )',
+#    image: 'assets/img/dingtao-shen.jpeg',
+#    email: 'dingtao.shen@connect.ust.hk',
+#    master: 'M. S.: University of Wisconsin-Madison',
+#    bachelor: 'B. S.: Zhejiang University',
+#    topic: 'High-fidelity solution methods for Boltzmann transport equation-based modelling of phonon heat conduction'
+#   }
 
-- {name: 'Yunqin Liu',
-   program: 'IIP (02/2024 - )',
-   image: '',
-   email: 'yliuns@connect.ust.hk',
-   master: 'M. Eng.: Beihang University',
-   bachelor: 'B. Eng.: Beihang University',
-   topic: 'Reduced order methods for Boltzmann transport equation-based modelling of phonon heat conduction'
-  }
+# - {name: 'Yunqin Liu',
+#    program: 'IIP (02/2024 - )',
+#    image: '',
+#    email: 'yliuns@connect.ust.hk',
+#    master: 'M. Eng.: Beihang University',
+#    bachelor: 'B. Eng.: Beihang University',
+#    topic: 'Reduced order methods for Boltzmann transport equation-based modelling of phonon heat conduction'
+#   }
 
-- {name: 'Jia Liu',
-   program: 'IIP (09/2024 - )',
-   image: '',
-   email: '',
-   master: 'M. Eng.: Southern University of Science & Technology',
-   bachelor: 'B. S.: Xiangtan University',
-   topic: ''
-  }
+# - {name: 'Jia Liu',
+#    program: 'IIP (09/2024 - )',
+#    image: '',
+#    email: '',
+#    master: 'M. Eng.: Southern University of Science & Technology',
+#    bachelor: 'B. S.: Xiangtan University',
+#    topic: ''
+#   }
 
 #Postdoc:
 #- {name: '',
