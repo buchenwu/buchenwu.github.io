@@ -1,27 +1,35 @@
 featured:
-- {title: 'Fast convergence and asymptotic preserving of the general synthetic iterative scheme.',
-   author: 'W Su, L Zhu, L Wu',
-   journal: 'SIAM Journal on Scientific Computing',
-   volume: '42(6): B1517-B1540',
-   year: '2020',
-   src: '/publications/J20.pdf',
-   doi: 'https://doi.org/10.1137/20M132691X'}
-
-- {title: ' Can we find steady-state solutions to multiscale rarefied gas flows within dozens of iterations?',
-   author: 'W Su, L Zhu, P Wang, Y Zhang, L Wu',
+- {title: 'An implicit moving-least-squares immersed boundary method for high-fidelity fluid-structure interaction simulations.',
+   author: 'Buchen Wu and Lin Fu',
    journal: 'Journal of Computational Physics',
-   volume: '407: 109245',
-   year: '2020',
-   src: '/publications/J15.pdf',
-   doi: 'https://doi.org/10.1016/j.jcp.2020.109245'}
+   volume: '530: 113913',
+   year: '2025',
+   src: '/publications/J20.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2025.113913'}
 
-- {title: 'Implicit discontinuous Galerkin method for the Boltzmann equation with full collision operator.',
-   author: 'W Su, P Wang, Y Zhang, L Wu',
-   journal: 'Journal of Scientific Computing',
-   volume: '82: 39',
-   year: '2020',
+- {title: ' One-side diffuse-interface immersed boundary method for compressible flows.',
+   author: 'Buchen Wu, Yaguang Liu and Lin Fu',
+   journal: 'Journal of Computational Physics',
+   volume: '523: 113667',
+   year: '2025',
+   src: '/publications/J15.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2024.113667'}
+
+- {title: 'Simplified inverse distance weighting-immersed boundary method for simulation of fluid-structure interaction.',
+   author: 'Buchen Wu, Yinjie Du and Chang Shu',
+   journal: 'Journal of Computational Physics',
+   volume: '521: 113524',
+   year: '2025',
    src: '/publications/J16.pdf',
-   doi: 'https://doi.org/10.1007/s10915-020-01139-7'}
+   doi: 'https://doi.org/10.1016/j.jcp.2024.113524'}
+
+- {title: 'An explicit boundary condition-enforced immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal–fluid–structure interaction problems with heat flux boundary conditions.',
+   author: 'Buchen Wu, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan',
+   journal: 'Journal of Computational Physics',
+   volume: '485: 112106',
+   year: '2023',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2023.112106'}
 
 #preprint:
 #- {title: 'Highly rarefied gas flows in rough channels of finite length',
