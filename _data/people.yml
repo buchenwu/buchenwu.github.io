@@ -9,7 +9,7 @@ PI:
    department: 'Department of Mechanical and Aerospace Engineering',
    institution: 'HKUST',
    address: 'Clear Water Bay, Hong Kong',
-   image: 'assets/img/buchen_wu.JPG',
+   image: 'assets/img/buchen_wu.jpg',
    # cv: '/people/cv-wei-su.pdf',
    googlescholar: 'https://scholar.google.com.hk/citations?user=fWzduqoAAAAJ&hl=en',
    researchgate: 'https://www.researchgate.net/profile/Buchen-Wu?ev=hdr_xprf',
