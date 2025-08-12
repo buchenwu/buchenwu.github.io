@@ -15,17 +15,17 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/WeiSu-MAE'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wei-su-24373899/'}
+- {icon: 'github', link: ''}
+- {icon: 'linkedin', link: ''}
 
 contacts:
-- {name: 'Dr Wei Su',
-   title: 'Assistant Professor',
-   department: 'Division of Emerging Interdisciplinary Areas',
+- {name: 'Dr. Buchen Wu',
+   title: 'Research Assistant Professor',
+   department: 'Department of Mechanical and Aerospace Engineering',
    institution: 'The Hong Kong University of Science and Technology',
    address: 'Clear Water Bay, Hong Kong',
    phone: '',
-   email: 'weisu@ust.hk',
+   email: 'buchenwu@ust.hk',
    office: '',
    image: 'assets/img/contact.jpg'
  }
