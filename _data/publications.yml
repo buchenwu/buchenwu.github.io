@@ -38,37 +38,109 @@ featured:
 #   src: '/publications/P1.pdf'}
 
 journal:
-# - {title: 'Molecular kinetic modelling of non-equilibrium evaporative flows.',
-#    author: 'S Li, W Su, B Shan, Z Li, L Gibelli, Y Zhang',
-#    journal: 'Journal of Fluid Mechanics',
-#    volume: '994: A16',
-#    year: '2024',
-#    src: '/publications/J32.pdf',
-#    doi: 'https://doi.org/10.1017/jfm.2024.605'}
+- {title: 'An implicit moving-least-squares immersed boundary method for high-fidelity fluid-structure interaction simulations.',
+   author: 'Buchen Wu and Lin Fu',
+   journal: 'Journal of Computational Physics',
+   volume: '530: 113913',
+   year: '2025',
+   src: '/publications/J20.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2025.113913'}
 
-# - {title: 'Molecular kinetic modelling of non-equilibrium transport of confined van der Waals fluids.',
-#    author: 'B Shan, W Su, L Gibelli, Y Zhang',
-#    journal: 'Journal of Fluid Mechanics',
-#    volume: '976: A7',
-#    year: '2023',
-#    src: '/publications/J31.pdf',
-#    doi: 'https://doi.org/10.1017/jfm.2023.893'}
+- {title: ' One-side diffuse-interface immersed boundary method for compressible flows.',
+   author: 'Buchen Wu, Yaguang Liu and Lin Fu',
+   journal: 'Journal of Computational Physics',
+   volume: '523: 113667',
+   year: '2025',
+   src: '/publications/J15.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2024.113667'}
 
-# - {title: 'Highly rarefied gas flows in rough channels of finite length.',
-#    author: 'Z Shi, Y Zhao, W Su, L Wu',
-#    journal: 'Advances in Aerodynamics',
-#    volume: '5: 27',
-#    year: '2023',
-#    src: '/publications/J30.pdf',
-#    doi: 'https://doi.org/10.1186/s42774-023-00159-9'}
+- {title: 'Simplified inverse distance weighting-immersed boundary method for simulation of fluid-structure interaction.',
+   author: 'Buchen Wu, Yinjie Du and Chang Shu',
+   journal: 'Journal of Computational Physics',
+   volume: '521: 113524',
+   year: '2025',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2024.113524'}
 
-# - {title: 'Sound wave propagation in rarefied molecular gases.',
-#    author: 'S Li, W Su, Y Zhang',
-#    journal: 'Journal of Fluid Mechanics',
-#    volume: '973: A35',
-#    year: '2023',
-#    src: '/publications/J29.pdf',
-#    doi: 'https://doi.org/10.1017/jfm.2023.698'}
+- {title: 'Explicit boundary thickening direct forcing immersed boundary method.',
+   author: 'Buchen Wu, HsuChew Lee, Chang Shu and Minping Wan',
+   journal: 'International Journal of Mechanical Sciences',
+   volume: '270: 109063',
+   year: '2024',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.ijmecsci.2024.109063'}
+
+- {title: 'An implicit immersed boundary method for Robin boundary condition.',
+   author: 'Buchen Wu, Chang Shu and Minping Wan',
+   journal: 'International Journal of Mechanical Sciences',
+   volume: '261: 108694',
+   year: '2024',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.ijmecsci.2023.108694'}
+
+- {title: 'Area increase and stretch factor in lean hydrogen-air turbulent flames.',
+   author: 'HsuChew Lee, Buchen Wu, Peng Dai, Minping Wan and Andrei N. Lipatnikov',
+   journal: 'Proceedings of the Combustion Institute',
+   volume: '40 (1-4): 105687',
+   year: '2024',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.proci.2024.105687'}
+
+- {title: 'An explicit boundary condition-enforced immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal–fluid–structure interaction problems with heat flux boundary conditions.',
+   author: 'Buchen Wu, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan',
+   journal: 'Journal of Computational Physics',
+   volume: '485: 112106',
+   year: '2023',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.jcp.2023.112106'}
+
+- {title: 'An efficient explicit immersed boundary-reconstructed lattice Boltzmann flux solver for isothermal fluid-structure interaction problems with large deformations and complex geometries.',
+   author: 'Buchen Wu, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan',
+   journal: 'Applied Mathematical Modelling',
+   volume: '114: 627--645',
+   year: '2023',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.apm.2022.10.017'}
+
+- {title: 'Thermodynamic optimization analysis of a combined cooling and power system integrating a chemical looping combustion with a dual-throttle self-condensing transcritical CO2 cycle.',
+   author: 'Yadong Du, Ce Yang, Haimei Wang, Weihua Sun, Hanzhi Zhang and Buchen Wu',
+   journal: 'Applied Thermal Engineering',
+   volume: '264: 125492',
+   year: '2025',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.applthermaleng.2025.125492'}
+
+- {title: 'Amplitude modulation of turbulence intensities and fluxes in urban convective boundary layers.',
+   author: 'Kangcheng Zhou, Chun-Ho Liu, Di Mei, Buchen Wu and Minping Wan',
+   journal: 'International Journal of Heat and Mass Transfer',
+   volume: '229: 125706',
+   year: '2024',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.ijheatmasstransfer.2024.125706'}
+
+- {title: 'Thermodynamic and optimization analysis of a fuel cell-based combined cooling, heating, and power system integrated with LNG-fueled chemical looping hydrogen generation.',
+   author: 'Yadong Du, Zhiyi Yu, Ce Yang , Haimei Wang and Buchen Wu',
+   journal: 'Applied Thermal Engineering',
+   volume: '248: 123192',
+   year: '2024',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.applthermaleng.2024.123192'}
+
+- {title: 'Force decomposition on flapping flexible flag via impulse theory and dynamic mode decomposition.',
+   author: 'Linlin Kang, Shiying Xiong, Buchen Wu, Chao Li, Mingming Ge, Dehan Yuan, Fei Han and Weicheng Cui',
+   journal: 'Physics of Fluids',
+   volume: '35 (10): 101914',
+   year: '2023',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1063/5.0169989'}
+
+- {title: 'Turbulent burning velocity and thermodiffusive instability of premixed flames.',
+   author: 'HsuChew Lee, Buchen Wu, Peng Dai, Minping Wan and Andrei N. Lipatnikov',
+   journal: 'Physical review E',
+   volume: '108 (3): 035101',
+   year: '2023',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1103/PhysRevE.108.035101'}
 
 # - {title: 'General synthetic iterative scheme for unsteady rarefied gas flows.',
 #    author: 'J Zeng, W Su, L Wu',
