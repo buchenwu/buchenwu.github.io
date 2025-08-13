@@ -78,14 +78,6 @@ journal:
    src: '/publications/J16.pdf',
    doi: 'https://doi.org/10.1016/j.ijmecsci.2023.108694'}
 
-- {title: 'Area increase and stretch factor in lean hydrogen-air turbulent flames.',
-   author: 'HsuChew Lee, Buchen Wu, Peng Dai, Minping Wan and Andrei N. Lipatnikov',
-   journal: 'Proceedings of the Combustion Institute',
-   volume: '40 (1-4): 105687',
-   year: '2024',
-   src: '/publications/J16.pdf',
-   doi: 'https://doi.org/10.1016/j.proci.2024.105687'}
-
 - {title: 'An explicit boundary condition-enforced immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal–fluid–structure interaction problems with heat flux boundary conditions.',
    author: 'Buchen Wu, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan',
    journal: 'Journal of Computational Physics',
@@ -101,6 +93,54 @@ journal:
    year: '2023',
    src: '/publications/J16.pdf',
    doi: 'https://doi.org/10.1016/j.apm.2022.10.017'}
+
+- {title: 'An explicit immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal fluid-structure interaction problems.',
+   author: 'Buchen Wu, Jinhua Lu, HsuChew Lee, Chang Shu and Minping Wan',
+   journal: 'International Journal of Mechanical Sciences',
+   volume: '235: 107704',
+   year: '2022',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.ijmecsci.2022.107704'}
+
+- {title: 'Numerical study on the hydrodynamic performance of an unconstrained carangiform swimmer.',
+   author: 'Buchen Wu, Chang Shu, HsuChew Lee and Minping Wan',
+   journal: 'Physics of Fluids',
+   volume: '34 (12): 121902',
+   year: '2022',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1063/5.0128635'}
+
+- {title: 'The effects of caudal fins bending stiffness on a self-propelled carangiform swimmer.',
+   author: 'Buchen Wu, Chang Shu, HsuChew Lee and Minping Wan',
+   journal: 'Physics of Fluids',
+   volume: '34 (4): 041901',
+   year: '2022',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1063/5.0089082'}
+
+- {title: 'Hydrodynamic performance of an unconstrained flapping swimmer with flexible fin: A numerical study.',
+   author: 'Buchen Wu, Chang Shu, Minping Wan, Yan Wang and Shiyi Chen',
+   journal: 'Physics of Fluids',
+   volume: '34 (1): 011901',
+   year: '2022',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1063/5.0077312'}
+
+- {title: 'Experimental study on characteristics of vortex-induced vibration of a twin-box girder and damping effects.',
+   author: 'Buchen Wu and Shujin Laima',
+   journal: 'Journal of Fluids and Structures',
+   volume: '103: 103282',
+   year: '2021',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.jfluidstructs.2021.103282'}
+
+- {title: 'The Effects of Aerodynamic Interference on the Aerodynamic Characteristics of a Twin-Box Girder.',
+   author: 'Buchen Wu, Geng Xue, Jie Feng and Shujin Laima',
+   journal: 'Applied Sciences',
+   volume: '11 (20): 9517',
+   year: '2021',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.3390/app11209517'}
 
 - {title: 'Thermodynamic optimization analysis of a combined cooling and power system integrating a chemical looping combustion with a dual-throttle self-condensing transcritical CO2 cycle.',
    author: 'Yadong Du, Ce Yang, Haimei Wang, Weihua Sun, Hanzhi Zhang and Buchen Wu',
@@ -126,6 +166,14 @@ journal:
    src: '/publications/J16.pdf',
    doi: 'https://doi.org/10.1016/j.applthermaleng.2024.123192'}
 
+- {title: 'Area increase and stretch factor in lean hydrogen-air turbulent flames.',
+   author: 'HsuChew Lee, Buchen Wu, Peng Dai, Minping Wan and Andrei N. Lipatnikov',
+   journal: 'Proceedings of the Combustion Institute',
+   volume: '40 (1-4): 105687',
+   year: '2024',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.proci.2024.105687'}
+
 - {title: 'Force decomposition on flapping flexible flag via impulse theory and dynamic mode decomposition.',
    author: 'Linlin Kang, Shiying Xiong, Buchen Wu, Chao Li, Mingming Ge, Dehan Yuan, Fei Han and Weicheng Cui',
    journal: 'Physics of Fluids',
@@ -141,6 +189,14 @@ journal:
    year: '2023',
    src: '/publications/J16.pdf',
    doi: 'https://doi.org/10.1103/PhysRevE.108.035101'}
+
+- {title: 'Sandwich-like dual carbon layers coated NiO hollow spheres with superior lithium storage performances.',
+   author: 'Qingmeng Gan, Buchen Wu, Ning Qin, Jiali Chen, Wen Luo, Dejun Xiao, Jie Feng, Weilong Liu, Youhuan Zhu, Peisen Zhang',
+   journal: 'Electrochimica Acta',
+   volume: '343: 136121',
+   year: '2020',
+   src: '/publications/J16.pdf',
+   doi: 'https://doi.org/10.1016/j.electacta.2020.136121'}
 
 # - {title: 'General synthetic iterative scheme for unsteady rarefied gas flows.',
 #    author: 'J Zeng, W Su, L Wu',
