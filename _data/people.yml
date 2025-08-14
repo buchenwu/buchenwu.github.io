@@ -7,7 +7,7 @@ PI:
    email: 'buchenwu@ust.hk',
    office: '2604',
    department: 'Department of Mechanical and Aerospace Engineering',
-   institution: 'HKUST',
+   institution: 'Hong Kong University of Science and Technology',
    address: 'Clear Water Bay, Hong Kong',
    image: 'assets/img/buchen_wu.jpg',
    # cv: '/people/cv-wei-su.pdf',
