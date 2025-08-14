@@ -1,6 +1,6 @@
 featured:
 - {title: 'An implicit moving-least-squares immersed boundary method for high-fidelity fluid-structure interaction simulations.',
-   author: '**Buchen Wu** and Lin Fu',
+   author: '__Buchen Wu__ and Lin Fu',
    journal: 'Journal of Computational Physics',
    volume: '530: 113913',
    year: '2025',
