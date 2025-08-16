@@ -1,10 +1,10 @@
 menu:
-- {name: 'Home', url: '/'}
+- {name: '主页', url: '/'}
 #- {name: 'Research', url: '/research'}
-- {name: 'Team', url: '/team'}
-- {name: 'Publications', url: '/publications'}
-- {name: 'News', url: '/news'}
-- {name: 'Vacancies', url: '/vacancies'}
+- {name: '成员', url: '/team'}
+- {name: '论文', url: '/publications'}
+- {name: '新闻', url: '/news'}
+- {name: '职位空缺', url: '/vacancies'}
 #- {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
