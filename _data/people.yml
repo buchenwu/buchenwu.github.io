@@ -12,8 +12,8 @@ PI:
    image: 'assets/img/buchen_wu.jpg',
    # cv: '/people/cv-wei-su.pdf',
    googlescholar: 'https://scholar.google.com.hk/citations?user=fWzduqoAAAAJ&hl=en',
-   researchgate: 'https://www.researchgate.net/profile/Buchen-Wu?ev=hdr_xprf',
-   linkdin: 'https://www.linkedin.com/in/buchen-wu-00616a305/?originalSubdomain=hk'
+   researchgate: 'https://www.researchgate.net/profile/Buchen-Wu',
+   linkdin: 'https://www.linkedin.com/in/buchen-wu-743077396/'
    }
 
 # PhD:
