@@ -12,27 +12,31 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     <h3 class="fw-bold mb-3">Research directions</h3>
-    <div class="grid-container border-bottom mt-3">
-      <!-- 第一张图 -->
-      <div class="grid-item">
-        <img class="rect_image" src="/assets/img/Flag1.gif">
-      </div>
-      <!-- 第二张图 -->
-      <div class="grid-item">
-        <img class="rect_image" src="/assets/img/Flag2.gif">
-      </div>
-      <!-- 第三张图 -->
-      <div class="grid-item">
-        <img class="rect_image" src="/assets/img/fish.gif" style="width: 150%;">
-      </div>
-      <!-- 文字说明 -->
-      <div class="grid-item wide">
-        <h6 class="fw-bold">Isothermal Fluid-Structure Interaction</h6>
-        <p>
-          We develop an efficient isothermal fluid-structure interaction numerical method: immersed boundary-reconstructed lattice Boltzmann flux solver (IB-RTLBFS), which can simulate FSI problems with complex gepmetries, moving boundaries and large deformations.
-        </p>
-      </div>
+    <div class="grid-container border-bottom mt-3" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <!-- 图像区域 -->
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <!-- 第一张图 -->
+    <div class="grid-item">
+      <img class="rect_image" src="/assets/img/Flag1.gif" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     </div>
+    <!-- 第二张图 -->
+    <div class="grid-item">
+      <img class="rect_image" src="/assets/img/Flag2.gif" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    </div>
+    <!-- 第三张图 -->
+    <div class="grid-item">
+      <img class="rect_image" src="/assets/img/fish.gif" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    </div>
+  </div>
+
+  <!-- 文字说明 -->
+  <div class="grid-item wide" style="max-width: 800px; text-align: center;">
+    <h6 class="fw-bold">Isothermal Fluid-Structure Interaction</h6>
+    <p>
+      We develop an efficient isothermal fluid-structure interaction numerical method: immersed boundary-reconstructed lattice Boltzmann flux solver (IB-RTLBFS), which can simulate FSI problems with complex geometries, moving boundaries and large deformations.
+    </p>
+  </div>
+</div>
 <!--     <div class="grid-container border-bottom mt-3">
       <div class="grid-item"><img class="rect_image" src="/assets/img/Circle_G_F.png"></div>
       <div class="grid-item wide">
