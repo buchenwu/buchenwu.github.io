@@ -12,7 +12,7 @@ featured:
    journal: 'Journal of Computational Physics',
    volume: '523: 113667',
    year: '2025',
-   src: '/publications/J15.pdf',
+   src: '/publications/J19.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2024.113667'}
 
 - {title: 'Simplified inverse distance weighting-immersed boundary method for simulation of fluid-structure interaction.',
@@ -20,7 +20,7 @@ featured:
    journal: 'Journal of Computational Physics',
    volume: '521: 113524',
    year: '2025',
-   src: '/publications/J16.pdf',
+   src: '/publications/J18.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2024.113524'}
 
 - {title: 'An explicit boundary condition-enforced immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal–fluid–structure interaction problems with heat flux boundary conditions.',
@@ -28,7 +28,7 @@ featured:
    journal: 'Journal of Computational Physics',
    volume: '485: 112106',
    year: '2023',
-   src: '/publications/J16.pdf',
+   src: '/publications/J15.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2023.112106'}
 
 #preprint:
@@ -51,7 +51,7 @@ journal:
    journal: 'Journal of Computational Physics',
    volume: '523: 113667',
    year: '2025',
-   src: '/publications/J15.pdf',
+   src: '/publications/J19.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2024.113667'}
 
 - {title: 'Simplified inverse distance weighting-immersed boundary method for simulation of fluid-structure interaction.',
@@ -59,7 +59,7 @@ journal:
    journal: 'Journal of Computational Physics',
    volume: '521: 113524',
    year: '2025',
-   src: '/publications/J16.pdf',
+   src: '/publications/J18.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2024.113524'}
 
 - {title: 'Explicit boundary thickening direct forcing immersed boundary method.',
@@ -67,7 +67,7 @@ journal:
    journal: 'International Journal of Mechanical Sciences',
    volume: '270: 109063',
    year: '2024',
-   src: '/publications/J16.pdf',
+   src: '/publications/J17.pdf',
    doi: 'https://doi.org/10.1016/j.ijmecsci.2024.109063'}
 
 - {title: 'An implicit immersed boundary method for Robin boundary condition.',
@@ -83,7 +83,7 @@ journal:
    journal: 'Journal of Computational Physics',
    volume: '485: 112106',
    year: '2023',
-   src: '/publications/J16.pdf',
+   src: '/publications/J15.pdf',
    doi: 'https://doi.org/10.1016/j.jcp.2023.112106'}
 
 - {title: 'An efficient explicit immersed boundary-reconstructed lattice Boltzmann flux solver for isothermal fluid-structure interaction problems with large deformations and complex geometries.',
@@ -91,7 +91,7 @@ journal:
    journal: 'Applied Mathematical Modelling',
    volume: '114: 627--645',
    year: '2023',
-   src: '/publications/J16.pdf',
+   src: '/publications/J14.pdf',
    doi: 'https://doi.org/10.1016/j.apm.2022.10.017'}
 
 - {title: 'An explicit immersed boundary-reconstructed thermal lattice Boltzmann flux solver for thermal fluid-structure interaction problems.',
@@ -99,7 +99,7 @@ journal:
    journal: 'International Journal of Mechanical Sciences',
    volume: '235: 107704',
    year: '2022',
-   src: '/publications/J16.pdf',
+   src: '/publications/J13.pdf',
    doi: 'https://doi.org/10.1016/j.ijmecsci.2022.107704'}
 
 - {title: 'Numerical study on the hydrodynamic performance of an unconstrained carangiform swimmer.',
@@ -107,7 +107,7 @@ journal:
    journal: 'Physics of Fluids',
    volume: '34 (12): 121902',
    year: '2022',
-   src: '/publications/J16.pdf',
+   src: '/publications/J12.pdf',
    doi: 'https://doi.org/10.1063/5.0128635'}
 
 - {title: 'The effects of caudal fins bending stiffness on a self-propelled carangiform swimmer.',
@@ -115,7 +115,7 @@ journal:
    journal: 'Physics of Fluids',
    volume: '34 (4): 041901',
    year: '2022',
-   src: '/publications/J16.pdf',
+   src: '/publications/J11.pdf',
    doi: 'https://doi.org/10.1063/5.0089082'}
 
 - {title: 'Hydrodynamic performance of an unconstrained flapping swimmer with flexible fin: A numerical study.',
@@ -123,7 +123,7 @@ journal:
    journal: 'Physics of Fluids',
    volume: '34 (1): 011901',
    year: '2022',
-   src: '/publications/J16.pdf',
+   src: '/publications/J10.pdf',
    doi: 'https://doi.org/10.1063/5.0077312'}
 
 - {title: 'Experimental study on characteristics of vortex-induced vibration of a twin-box girder and damping effects.',
@@ -131,7 +131,7 @@ journal:
    journal: 'Journal of Fluids and Structures',
    volume: '103: 103282',
    year: '2021',
-   src: '/publications/J16.pdf',
+   src: '/publications/J9.pdf',
    doi: 'https://doi.org/10.1016/j.jfluidstructs.2021.103282'}
 
 - {title: 'The Effects of Aerodynamic Interference on the Aerodynamic Characteristics of a Twin-Box Girder.',
@@ -139,7 +139,7 @@ journal:
    journal: 'Applied Sciences',
    volume: '11 (20): 9517',
    year: '2021',
-   src: '/publications/J16.pdf',
+   src: '/publications/J8.pdf',
    doi: 'https://doi.org/10.3390/app11209517'}
 
 - {title: 'Thermodynamic optimization analysis of a combined cooling and power system integrating a chemical looping combustion with a dual-throttle self-condensing transcritical CO2 cycle.',
@@ -147,7 +147,7 @@ journal:
    journal: 'Applied Thermal Engineering',
    volume: '264: 125492',
    year: '2025',
-   src: '/publications/J16.pdf',
+   src: '/publications/J7.pdf',
    doi: 'https://doi.org/10.1016/j.applthermaleng.2025.125492'}
 
 - {title: 'Amplitude modulation of turbulence intensities and fluxes in urban convective boundary layers.',
@@ -155,7 +155,7 @@ journal:
    journal: 'International Journal of Heat and Mass Transfer',
    volume: '229: 125706',
    year: '2024',
-   src: '/publications/J16.pdf',
+   src: '/publications/J6.pdf',
    doi: 'https://doi.org/10.1016/j.ijheatmasstransfer.2024.125706'}
 
 - {title: 'Thermodynamic and optimization analysis of a fuel cell-based combined cooling, heating, and power system integrated with LNG-fueled chemical looping hydrogen generation.',
@@ -163,7 +163,7 @@ journal:
    journal: 'Applied Thermal Engineering',
    volume: '248: 123192',
    year: '2024',
-   src: '/publications/J16.pdf',
+   src: '/publications/J5.pdf',
    doi: 'https://doi.org/10.1016/j.applthermaleng.2024.123192'}
 
 - {title: 'Area increase and stretch factor in lean hydrogen-air turbulent flames.',
@@ -171,7 +171,7 @@ journal:
    journal: 'Proceedings of the Combustion Institute',
    volume: '40 (1-4): 105687',
    year: '2024',
-   src: '/publications/J16.pdf',
+   src: '/publications/J4.pdf',
    doi: 'https://doi.org/10.1016/j.proci.2024.105687'}
 
 - {title: 'Force decomposition on flapping flexible flag via impulse theory and dynamic mode decomposition.',
@@ -179,7 +179,7 @@ journal:
    journal: 'Physics of Fluids',
    volume: '35 (10): 101914',
    year: '2023',
-   src: '/publications/J16.pdf',
+   src: '/publications/J3.pdf',
    doi: 'https://doi.org/10.1063/5.0169989'}
 
 - {title: 'Turbulent burning velocity and thermodiffusive instability of premixed flames.',
@@ -187,7 +187,7 @@ journal:
    journal: 'Physical review E',
    volume: '108 (3): 035101',
    year: '2023',
-   src: '/publications/J16.pdf',
+   src: '/publications/J2.pdf',
    doi: 'https://doi.org/10.1103/PhysRevE.108.035101'}
 
 - {title: 'Sandwich-like dual carbon layers coated NiO hollow spheres with superior lithium storage performances.',
@@ -195,7 +195,7 @@ journal:
    journal: 'Electrochimica Acta',
    volume: '343: 136121',
    year: '2020',
-   src: '/publications/J16.pdf',
+   src: '/publications/J1.pdf',
    doi: 'https://doi.org/10.1016/j.electacta.2020.136121'}
 
 conference:
