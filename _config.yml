@@ -1,7 +1,7 @@
 url: "http://wu-researchgroup.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Multiphysics Fluid-Structure Interaction Research Laboratory <br> 多物理場流固耦合研究實驗室" # the name of your site, e.g. ACME Corp.
-description: "@ MAE | HKUST"
+description: "@ EME | UM"
 
 # Homepage limit posts
 number_of_posts: 5
