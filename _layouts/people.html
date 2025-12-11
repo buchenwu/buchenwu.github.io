@@ -14,11 +14,6 @@ layout: default
     <div class="grid-item wide">
       <p class="mb-0"><span class=" fw-bold">{{ person.title }} {{ person.name }}</span><span>, {{ person.position }}</span></p>
       <p class="mb-0">{{ person.department }}</p>
-      <p class="mb-0">{{ person.rap }}</p>
-      <p class="mb-0">{{ person.postdoc }}</p>
-      <p class="mb-0">{{ person.phd }}</p>
-      <p class="mb-0">{{ person.master }}</p>
-      <p class="mb-0">{{ person.bachelor }}</p>
       <!--<p class="mb-0">{{ person.degree }}</p>-->
       <p class="mb-0">Email: <a class="four" href="mailto: {{ person.email }}">{{ person.email }}</a></p>
       <p class="mb-0">Phone: {{ person.phone }}</p>
@@ -26,6 +21,13 @@ layout: default
       <p class="mb-0">Address: {{ person.institution }}, {{ person.address }}</p>
       <p class="mb-0">More info: <a class="four" href="{{ person.googlescholar }}"><i class="fab fa-google"></i> </a><a class="four" href="{{ person.researchgate }}"><i class="fab fa-researchgate"></i> </a><a class="four" href="{{ person.linkdin }}"><i class="fab fa-linkedin"></i></a></p>
       <!-- <p class="mb-0">More info: <a class="four" href="{{ person.cv }}">CV </a><a class="four" href="{{ person.googlescholar }}"><i class="fab fa-google"></i> </a><a class="four" href="{{ person.researchgate }}"><i class="fab fa-researchgate"></i> </a><a class="four" href="{{ person.linkdin }}"><i class="fab fa-linkedin"></i></a></p> -->
+      <p class="mb-0"><span class=" fw-bold">{Professional Experience:}</span></p>
+      <p class="mb-0">{{ person.rap }}</p>
+      <p class="mb-0">{{ person.postdoc }}</p>
+      <p class="mb-0"><span class=" fw-bold">{Academic Qualification:}</span></p>
+      <p class="mb-0">{{ person.phd }}</p>
+      <p class="mb-0">{{ person.master }}</p>
+      <p class="mb-0">{{ person.bachelor }}</p>
     </div>
   </div>
   {% endfor %}
