@@ -38,6 +38,14 @@ featured:
 #   src: '/publications/P1.pdf'}
 
 journal:
+- {title: 'An optimization study considering MNP temporal evolution improves therapeutic efficacy in hyperthermia treatment.',
+   author: '<b>Buchen Wu<sup>#</sup></b>, Qian Jiang <sup>#,*</sup>, Zhaokun Wang, Chenglei Wang, Feng Ren and Hui Tang',
+   journal: 'International Journal of Thermal Sciences',
+   volume: '220: 110319',
+   year: '2026',
+   src: '/publications/J21.pdf',
+   doi: 'https://doi.org/10.1016/j.ijthermalsci.2025.110319'}
+   
 - {title: 'An implicit moving-least-squares immersed boundary method for high-fidelity fluid-structure interaction simulations.',
    author: '<b>Buchen Wu</b> and Lin Fu<sup>*</sup>',
    journal: 'Journal of Computational Physics',
