@@ -17,8 +17,9 @@ PI:
    institution: 'University of Macau',
    address: 'Taipa, Macau',
    image: 'assets/img/buchen_wu.jpg',
-   # cv: '/people/cv-wei-su.pdf',
+   # cv: '/people/cv-buchenwu.pdf',
    googlescholar: 'https://scholar.google.com.hk/citations?user=fWzduqoAAAAJ&hl=en',
+   orcid: 'https://orcid.org/0000-0002-0098-8659',
    researchgate: 'https://www.researchgate.net/profile/Buchen-Wu',
    linkdin: 'https://www.linkedin.com/in/buchen-wu-743077396/'
    }
