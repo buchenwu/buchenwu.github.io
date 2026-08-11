@@ -29,7 +29,7 @@ PI:
 
 PhD:
 - {name: 'Junliang Lin',
-   program: '(09/2026 - )',
+   program: '(08/2026 - )',
    image: 'assets/img/junlianglin.jpg',
    email: 'yc67787@connect.um.edu.mo',
    master: 'M. Eng.: Huazhong University of Science and Technology',
@@ -38,7 +38,7 @@ PhD:
   }
 
 - {name: 'Zongyuan Guo',
-   program: '(09/2026 - )',
+   program: '(08/2026 - )',
    image: 'assets/img/zongyuanguo.jpg',
    email: 'yc67786@connect.um.edu.mo',
    master: 'M. Eng.: Northwestern Polytechnical University',
