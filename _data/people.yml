@@ -30,8 +30,8 @@ PI:
 PhD:
 - {name: 'Junliang Lin',
    program: 'IIP (09/2026 - )',
-   image: 'assets/img/junlianglin.jpeg',
-   # email: 'dingtao.shen@connect.ust.hk',
+   image: 'assets/img/junlianglin.jpg',
+   # email: '@um.edu.mo',
    master: 'M. Eng.: Huazhong University of Science and Technology',
    bachelor: 'B. Eng.: Huazhong University of Science and Technology',
    # topic: 'High-fidelity'
@@ -39,30 +39,12 @@ PhD:
 
 - {name: 'Zongyuan Guo',
    program: 'IIP (09/2026 - )',
-   image: 'assets/img/zongyuanguo.jpeg',
-   # email: 'dingtao.shen@connect.ust.hk',
+   image: 'assets/img/zongyuanguo.jpg',
+   # email: '@um.edu.mo',
    master: 'M. Eng.: Northwestern Polytechnical University',
    bachelor: 'B. Eng.: Northwestern Polytechnical University',
    # topic: 'High-fidelity'
   }
-
-# - {name: 'Yunqin Liu',
-#    program: 'IIP (02/2024 - )',
-#    image: '',
-#    email: 'yliuns@connect.ust.hk',
-#    master: 'M. Eng.: Beihang University',
-#    bachelor: 'B. Eng.: Beihang University',
-#    topic: 'Reduced order methods for Boltzmann transport equation-based modelling of phonon heat conduction'
-#   }
-
-# - {name: 'Jia Liu',
-#    program: 'IIP (09/2024 - )',
-#    image: '',
-#    email: '',
-#    master: 'M. Eng.: Southern University of Science & Technology',
-#    bachelor: 'B. S.: Xiangtan University',
-#    topic: ''
-#   }
 
 #Postdoc:
 #- {name: '',
