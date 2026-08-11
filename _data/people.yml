@@ -40,7 +40,7 @@ PhD:
 - {name: 'Zongyuan Guo',
    program: 'IIP (09/2026 - )',
    image: 'assets/img/zongyuanguo.jpg',
-   # email: '@um.edu.mo',
+   email: 'yc67786@connect.um.edu.mo',
    master: 'M. Eng.: Northwestern Polytechnical University',
    bachelor: 'B. Eng.: Northwestern Polytechnical University',
    # topic: 'High-fidelity'
