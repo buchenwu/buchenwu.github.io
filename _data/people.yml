@@ -27,15 +27,24 @@ PI:
    linkdin: 'https://www.linkedin.com/in/buchen-wu-743077396/'
    }
 
-# PhD:
-# - {name: 'Dingtao Shen',
-#    program: 'IIP (09/2023 - )',
-#    image: 'assets/img/dingtao-shen.jpeg',
-#    email: 'dingtao.shen@connect.ust.hk',
-#    master: 'M. S.: University of Wisconsin-Madison',
-#    bachelor: 'B. S.: Zhejiang University',
-#    topic: 'High-fidelity solution methods for Boltzmann transport equation-based modelling of phonon heat conduction'
-#   }
+PhD:
+- {name: 'Junliang Lin',
+   program: 'IIP (09/2026 - )',
+   image: 'assets/img/junlianglin.jpeg',
+   # email: 'dingtao.shen@connect.ust.hk',
+   master: 'M. Eng.: Huazhong University of Science and Technology',
+   bachelor: 'B. Eng.: Huazhong University of Science and Technology',
+   # topic: 'High-fidelity'
+  }
+
+- {name: 'Zongyuan Guo',
+   program: 'IIP (09/2026 - )',
+   image: 'assets/img/zongyuanguo.jpeg',
+   # email: 'dingtao.shen@connect.ust.hk',
+   master: 'M. Eng.: Northwestern Polytechnical University',
+   bachelor: 'B. Eng.: Northwestern Polytechnical University',
+   # topic: 'High-fidelity'
+  }
 
 # - {name: 'Yunqin Liu',
 #    program: 'IIP (02/2024 - )',
