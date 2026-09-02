@@ -32,8 +32,8 @@ PhD:
    program: '(08/2026 - )',
    image: 'assets/img/junlianglin.jpg',
    email: 'yc67787@connect.um.edu.mo',
-   master: 'M. Eng.: Huazhong University of Science and Technology',
-   bachelor: 'B. Eng.: Huazhong University of Science and Technology',
+   master: 'M. Eng.: 华中科技大学',
+   bachelor: 'B. Eng.: 华中科技大学',
    # topic: 'High-fidelity'
   }
 
@@ -41,8 +41,8 @@ PhD:
    program: '(08/2026 - )',
    image: 'assets/img/zongyuanguo.jpg',
    email: 'yc67786@connect.um.edu.mo',
-   master: 'M. Eng.: Northwestern Polytechnical University',
-   bachelor: 'B. Eng.: Northwestern Polytechnical University',
+   master: 'M. Eng.: 西北工业大学',
+   bachelor: 'B. Eng.: 西北工业大学',
    # topic: 'High-fidelity'
   }
 
