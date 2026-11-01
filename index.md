@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Home"
+layout: people
+title: "Team"
 ---
 
 We .
