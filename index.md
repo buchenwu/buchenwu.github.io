@@ -1,4 +1,4 @@
 ---
-layout: people
-title: "Team"
+layout: home
+title: "Home"
 ---
