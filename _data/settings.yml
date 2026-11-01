@@ -1,7 +1,7 @@
 menu:
-- {name: 'Home', url: '/'}
-#- {name: 'Research', url: '/research'}
 - {name: 'Team', url: '/team'}
+#- {name: 'Research', url: '/research'}
+- {name: 'Home', url: '/'}
 - {name: 'Publication', url: '/publications'}
 - {name: 'Honors & Awards', url: '/news'}
 - {name: 'Open position', url: '/vacancies'}
